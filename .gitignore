@@ -1,0 +1,8 @@
+.env
+.env.*
+*.log
+local-config.json
+
+node_modules/
+.DS_Store
+coverage/
